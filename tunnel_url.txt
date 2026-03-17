@@ -1,1 +1,1 @@
-https://underlying-calendars-plaza-well.trycloudflare.com
+https://api.trycloudflare.com
