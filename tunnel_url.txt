@@ -1,1 +1,1 @@
-https://hidden-kits-positioning-adoption.trycloudflare.com
+https://api.trycloudflare.com
