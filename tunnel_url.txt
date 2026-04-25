@@ -1,1 +1,1 @@
-https://tip-davis-fellowship-colin.trycloudflare.com
+https://api.trycloudflare.com
