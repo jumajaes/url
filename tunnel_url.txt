@@ -1,1 +1,1 @@
-https://temporal-stephanie-absolute-quilt.trycloudflare.com
+https://another-servers-namespace-rome.trycloudflare.com
